@@ -1,0 +1,5 @@
+baseURL = 'https://weronikarekas.pl/'
+languageCode = 'pl-pl'
+title = 'Psychologia'
+theme = 'LoveIt'
+contentDir = 'content/pl'
