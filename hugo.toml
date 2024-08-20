@@ -1,5 +1,5 @@
 baseURL = 'https://weronikarekas.pl/'
 languageCode = 'pl-pl'
-title = 'PsychoWerkologia'
+title = 'Psychologia Dziecięca'
 theme = 'LoveIt'
 contentDir = 'content/pl'
