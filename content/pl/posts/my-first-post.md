@@ -60,4 +60,3 @@ seo:
 ---
 
 <!--more-->
-Jakiś tam kontent
