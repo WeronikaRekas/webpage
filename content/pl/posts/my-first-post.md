@@ -1,6 +1,6 @@
 ---
-title: "Czym jest psychologia?"
-subtitle: "I czemu jom jem"
+title: "..."
+subtitle: "..."
 date: 2023-09-05T20:19:51+02:00
 lastmod: 2023-09-05T20:19:51+02:00
 draft: false 
